@@ -23,6 +23,13 @@ require 'net/http' ← 汎用データ転送プロトコル HTTP を扱うライ
 URLの中で使用する文字列をエスケープする時には```URI.encode_www_form```メソッドを使用する
 
 
+<br>
+
+
+#### JSON.parseとは
+
+JSON.parseとは、JSON(ジェイソン)形式の文字列をRubyのHash(ハッシュ)形式に変換するためのメソッド
+
 
 
 
