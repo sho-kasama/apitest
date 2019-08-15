@@ -1,24 +1,27 @@
-# README
+## railsでWeb APIを叩いた
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- WebAPIはJSON形式のデータを返す
+- GETメソッドで情報を取得するパターンのみ
+- 処理成功時にはHashに変換したデータを出力し、処理失敗時はロガーでログを残して終了する
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
+
+
+
+## 参考記事
+
+- <a href="https://qiita.com/mogulla3/items/a4bff2e569dfa7da1896">RubyでWebAPIを叩く</a>
+- <a href="https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47">WebAPIについての説明</a>
