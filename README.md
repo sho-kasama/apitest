@@ -5,18 +5,7 @@
 - 処理成功時にはHashに変換したデータを出力し、処理失敗時はロガーでログを残して終了する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+- <a href="https://github.com/sho-kasama/apitest/blob/master/app/controllers/address_controller.rb">詳しくはこちらのコードで</a>
 
 
 
